@@ -1,6 +1,4 @@
 # Striver-SDE-Sheet-Challenge
-Striver’s SDE Sheet Challenge for the year 2023
-----------------------------------------------------------------------------------------------------------------------------------
 
 Take the challenge at https://takeuforward.org/interviews/strivers-sde-sheet-challenge-2023/
 
